@@ -2,7 +2,7 @@
 
 > **Where Ideas Take Form.**
 
-Zone4Wall Studio V4 is a browser-based interactive fashion-studio interface designed to present apparel development, material exploration, surface development, and garment concepts through an immersive digital experience.
+Zone4Wall Studio V4 is a browser-based, interactive fashion-studio interface designed by MUTHAMIL from Tamil Nadu to present apparel development, material exploration, surface design, and garment concepts through an immersive digital experience.
 
 The project combines a futuristic HUD interface with real-time 3D graphics and an optional WebXR experience.
 
